@@ -1,4 +1,4 @@
-# 🖇 many-to-many-relations-with-typeorm
+# 🖇 Relação ManyToMany com typeorm
 
 Neste repositório, explico detalhadamente como criar e configurar as tabelas necessárias em um banco de dados para suportar a relação Many-to-Many com typeorm e typescript. Neste exemplo, a relação foi entre pedidos (orders), clientes (customers) e produtos (products) em uma aplicação. Vamos examinar cada migração para entender como elas trabalham juntas para estabelecer essa relação complexa:
 
